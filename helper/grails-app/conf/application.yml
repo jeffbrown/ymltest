@@ -15,6 +15,12 @@ spring:
 
 ---
 grails:
+    demo:
+        prop1: Uno
+        prop2: Dos
+
+---
+grails:
     mime:
         disable:
             accept:
